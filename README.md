@@ -12,3 +12,8 @@ First optimization: 2,63s (799 KB in 45 requests)
 Second optimization: 2,33s (608,85KB in 41 requests)
 - only using one css file consolidating used styles
 - PageSpeed insights Mobile 88/100 Web 78/100
+
+Second optimization: 1,53s (444,64KB in 41 requests)
+- optimized only used css file
+- optimized iphone.png
+- PageSpeed insights Mobile 89/100 Web 79/100
