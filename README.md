@@ -8,3 +8,7 @@ First optimization: 2,63s (799 KB in 45 requests)
 - optimized hero.jpg
 - async js loading
 - PageSpeed insights Mobile 70/100 Web 73/100
+
+Second optimization: 2,33s (608,85KB in 41 requests)
+- only using one css file consolidating used styles
+- PageSpeed insights Mobile 88/100 Web 78/100
