@@ -18,6 +18,11 @@ Third optimization: 1,53s (444,64KB in 41 requests)
 - optimized iphone.png
 - PageSpeed insights Mobile 89/100 Web 79/100
 
-Fourth optimization: 1,33a (399,29KB in 41 requests)
+Fourth optimization: 1,33s (399,29KB in 41 requests)
 - optimized png images
 - PageSpeed insights Mobile 88/100 Web 82/100
+
+Fifth optimization: 1,26s (395,61KB in 41 requests)
+- minified main.js and parallax.js
+- minified index.html
+- PageSpeed insights Mobile 89/100 Web 82/100
